@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="textview">TextView</string>
+    <string name="sum">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="divide">Division</string>
+    <string name="multiply">Multiplication</string>
+    <string name="mod">Mod</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+</resources>
